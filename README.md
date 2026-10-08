@@ -19,12 +19,25 @@ Kicad
 LMMS
 
 # Where i get the sources to compile
+
+https://github.com/drbye78/libgig
+
+https://github.com/thestk/stk
+
 https://sr.ht/~hannes/airwindows-lv2/#building
+
 https://github.com/DISTRHO/DPF-Plugins.git
+
 https://lsp-plug.in/?page=download&section=source
+
 https://github.com/KiCad/kicad-source-mirror
+
 https://github.com/LMMS/lmms/wiki/Compiling
+
 https://github.com/Open-Cascade-SAS/OCCT
+
 https://github.com/coin3d. --coin pivy soqt
+
 https://github.com/x42/x42-plugins
+
 https://ngspice.sourceforge.io/
