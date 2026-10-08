@@ -48,4 +48,6 @@ https://github.com/coin3d. --coin pivy soqt
 
 https://github.com/x42/x42-plugins
 
+https://github.com/x42/libltc
+
 https://ngspice.sourceforge.io/
