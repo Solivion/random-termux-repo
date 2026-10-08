@@ -20,6 +20,14 @@ LMMS
 
 # Where i get the sources to compile
 
+https://freerouting.org/freerouting/getting-freerouting (likely https://freerouting.org/freerouting/changelog/freeRouting-2.0.1.tar.gz)
+
+https://github.com/huxingyi/dust3d
+
+https://github.com/nanomsg/nng
+
+https://github.com/ratchov/sndio
+
 https://github.com/drbye78/libgig
 
 https://github.com/thestk/stk
