@@ -14,7 +14,17 @@ some lib are dyamic and wont have correct dependency list
 enjoy using termux natively with these, i might list depends wrong but hopefully it should be easy to figure out.
 I hate having to go into proot and get a slower speed so I do this kind of thing instead of using proot.
 
-in the releases are:
+# in the releases are:
 Kicad
 LMMS
 
+# Where i get the sources to compile
+https://sr.ht/~hannes/airwindows-lv2/#building
+https://github.com/DISTRHO/DPF-Plugins.git
+https://lsp-plug.in/?page=download&section=source
+https://github.com/KiCad/kicad-source-mirror
+https://github.com/LMMS/lmms/wiki/Compiling
+https://github.com/Open-Cascade-SAS/OCCT
+https://github.com/coin3d. --coin pivy soqt
+https://github.com/x42/x42-plugins
+https://ngspice.sourceforge.io/
