@@ -19,7 +19,7 @@ I hate having to go into proot and get a slower speed so I do this kind of thing
 
 [LMMS](https://github.com/Solivion/random-termux-repo/releases#release-lmms_compiled)
 
-[Clang&LLD](https://github.com/Solivion/random-termux-repo/releases#release-llvm_atuff)
+[Clang&LLD](https://github.com/Solivion/random-termux-repo/releases#release-llvm_atuff) [[Modified Source]](https://github.com/Solivion/random-termux-repo/releases/download/llvm_atuff/source.tar.xz)
 
 # Where i get the sources to compile
 
