@@ -21,7 +21,13 @@ I hate having to go into proot and get a slower speed so I do this kind of thing
 
 [Clang&LLD](https://github.com/Solivion/random-termux-repo/releases#release-llvm_atuff) [[Modified Source]](https://github.com/Solivion/random-termux-repo/releases/download/llvm_atuff/source.tar.xz)
 
+[OpenCADStudio](https://github.com/Solivion/random-termux-repo/releases/tag/opencadstudio-compiled) [[Modified Dependencies Source]](https://github.com/Solivion/random-termux-repo/releases/download/opencadstudio-compiled/src-registry.tar.xz) [[Slightly modified source]](https://github.com/Solivion/random-termux-repo/releases/download/opencadstudio-compiled/opencadsource.tar.xz)
+
 # Where i get the sources to compile
+
+https://github.com/llvm/llvm-project
+
+https://github.com/HakanSeven12/OpenCADStudio
 
 https://freerouting.org/freerouting/getting-freerouting (likely https://freerouting.org/freerouting/changelog/freeRouting-2.0.1.tar.gz)
 
