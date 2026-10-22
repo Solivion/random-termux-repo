@@ -15,7 +15,7 @@ enjoy using termux natively with these, i might list depends wrong but hopefully
 I hate having to go into proot and get a slower speed so I do this kind of thing instead of using proot.
 
 # in the releases are:
-[Kicad (Broken, just incase something outside of Shchematic Editor works)](https://github.com/Solivion/random-termux-repo/releases#release-kicad_compiled)
+[Kicad (Broken, just incase something outside of Schematic Editor works)](https://github.com/Solivion/random-termux-repo/releases#release-kicad_compiled)
 
 [LMMS](https://github.com/Solivion/random-termux-repo/releases#release-lmms_compiled)
 
